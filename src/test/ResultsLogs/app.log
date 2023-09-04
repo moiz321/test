@@ -1,0 +1,205 @@
+2023-08-31 12:50:07.932 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:50:09.768 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:50:09.874 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:50:09.963 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:50:10.074 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:50:10.116 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:50:13.190 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-08-31 12:50:13.241 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-08-31 12:50:13.283 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-08-31 12:50:17.577 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:50:19.084 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:50:19.213 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:50:19.307 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:50:19.444 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:50:19.480 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:50:22.565 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-08-31 12:50:22.620 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-08-31 12:50:22.657 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-08-31 12:50:27.510 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:50:28.810 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:50:28.964 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:50:29.036 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:50:29.149 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:50:29.181 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:50:29.236 [main]INFO  StepDefination.StepDef - User click on short add to cart
+2023-08-31 12:50:29.273 [main]INFO  StepDefination.StepDef - Verify item should be add in the cart from short add to cart
+2023-08-31 12:50:29.343 [main]INFO  StepDefination.StepDef - User click on product from listning page
+2023-08-31 12:50:29.368 [main]INFO  StepDefination.StepDef - Verify pdp should open successfully
+2023-08-31 12:50:29.407 [main]INFO  StepDefination.StepDef - User click on add to cart from PDP
+2023-08-31 12:50:29.445 [main]INFO  StepDefination.StepDef - Verify add to cart successfully from PDP
+2023-08-31 12:50:29.512 [main]INFO  StepDefination.StepDef - User click on cart page
+2023-08-31 12:50:29.558 [main]INFO  StepDefination.StepDef - Verify two items should be add in the cart
+2023-08-31 12:50:29.621 [main]INFO  StepDefination.StepDef - User remove one item from the item
+2023-08-31 12:50:29.657 [main]INFO  StepDefination.StepDef - Verify one item should be in cart
+2023-08-31 12:50:29.718 [main]INFO  StepDefination.StepDef - User click on Checkout button
+2023-08-31 12:50:29.750 [main]INFO  StepDefination.StepDef - Verify customer information page should be open
+2023-08-31 12:50:30.043 [main]INFO  StepDefination.StepDef - User fill the customer information
+2023-08-31 12:50:30.121 [main]INFO  StepDefination.StepDef - User click on Continue button
+2023-08-31 12:50:30.159 [main]INFO  StepDefination.StepDef - Verify final checkout page should be open
+2023-08-31 12:50:30.218 [main]INFO  StepDefination.StepDef - User click on Finish button
+2023-08-31 12:50:30.248 [main]INFO  StepDefination.StepDef - Verify order should be placed successfully
+2023-08-31 12:57:18.814 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:57:20.603 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:57:20.801 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:57:20.872 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:57:20.972 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:57:21.018 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:57:24.095 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-08-31 12:57:24.190 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-08-31 12:57:24.247 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-08-31 12:57:27.507 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:57:28.845 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:57:29.014 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:57:29.081 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:57:29.165 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:57:29.189 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:57:32.244 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-08-31 12:57:32.309 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-08-31 12:57:32.341 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-08-31 12:57:41.416 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-08-31 12:57:42.846 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-08-31 12:57:43.036 [main]INFO  StepDefination.StepDef - User enters the username
+2023-08-31 12:57:43.147 [main]INFO  StepDefination.StepDef - User enters the password
+2023-08-31 12:57:43.299 [main]INFO  StepDefination.StepDef - User click on login button
+2023-08-31 12:57:43.340 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-08-31 12:57:43.457 [main]INFO  StepDefination.StepDef - User click on short add to cart
+2023-08-31 12:57:43.507 [main]INFO  StepDefination.StepDef - Verify item should be add in the cart from short add to cart
+2023-08-31 12:57:43.605 [main]INFO  StepDefination.StepDef - User click on product from listning page
+2023-08-31 12:57:43.639 [main]INFO  StepDefination.StepDef - Verify pdp should open successfully
+2023-08-31 12:57:43.745 [main]INFO  StepDefination.StepDef - User click on add to cart from PDP
+2023-08-31 12:57:43.800 [main]INFO  StepDefination.StepDef - Verify add to cart successfully from PDP
+2023-08-31 12:57:43.886 [main]INFO  StepDefination.StepDef - User click on cart page
+2023-08-31 12:57:43.927 [main]INFO  StepDefination.StepDef - Verify two items should be add in the cart
+2023-08-31 12:57:43.992 [main]INFO  StepDefination.StepDef - User remove one item from the item
+2023-08-31 12:57:44.037 [main]INFO  StepDefination.StepDef - Verify one item should be in cart
+2023-08-31 12:57:44.114 [main]INFO  StepDefination.StepDef - User click on Checkout button
+2023-08-31 12:57:44.154 [main]INFO  StepDefination.StepDef - Verify customer information page should be open
+2023-08-31 12:57:44.457 [main]INFO  StepDefination.StepDef - User fill the customer information
+2023-08-31 12:57:44.538 [main]INFO  StepDefination.StepDef - User click on Continue button
+2023-08-31 12:57:44.576 [main]INFO  StepDefination.StepDef - Verify final checkout page should be open
+2023-08-31 12:57:44.640 [main]INFO  StepDefination.StepDef - User click on Finish button
+2023-08-31 12:57:44.671 [main]INFO  StepDefination.StepDef - Verify order should be placed successfully
+2023-09-03 20:27:13.073 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:27:14.919 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:27:15.035 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:27:15.097 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:27:15.207 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:27:15.243 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:27:18.293 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 20:27:18.342 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 20:27:18.375 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 20:27:21.501 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:27:23.332 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:27:23.452 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:27:23.515 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:27:23.610 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:27:23.641 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:27:26.688 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 20:27:26.739 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 20:27:26.763 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 20:27:29.041 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:27:37.673 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:27:37.766 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:27:37.843 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:27:37.941 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:27:37.966 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:27:38.014 [main]INFO  StepDefination.StepDef - User click on short add to cart
+2023-09-03 20:27:38.042 [main]INFO  StepDefination.StepDef - Verify item should be add in the cart from short add to cart
+2023-09-03 20:27:38.091 [main]INFO  StepDefination.StepDef - User click on product from listning page
+2023-09-03 20:27:38.144 [main]INFO  StepDefination.StepDef - Verify pdp should open successfully
+2023-09-03 20:27:38.183 [main]INFO  StepDefination.StepDef - User click on add to cart from PDP
+2023-09-03 20:27:38.224 [main]INFO  StepDefination.StepDef - Verify add to cart successfully from PDP
+2023-09-03 20:27:38.276 [main]INFO  StepDefination.StepDef - User click on cart page
+2023-09-03 20:27:38.302 [main]INFO  StepDefination.StepDef - Verify two items should be add in the cart
+2023-09-03 20:27:38.339 [main]INFO  StepDefination.StepDef - User remove one item from the item
+2023-09-03 20:27:38.362 [main]INFO  StepDefination.StepDef - Verify one item should be in cart
+2023-09-03 20:27:38.409 [main]INFO  StepDefination.StepDef - User click on Checkout button
+2023-09-03 20:27:38.444 [main]INFO  StepDefination.StepDef - Verify customer information page should be open
+2023-09-03 20:27:38.629 [main]INFO  StepDefination.StepDef - User fill the customer information
+2023-09-03 20:27:38.691 [main]INFO  StepDefination.StepDef - User click on Continue button
+2023-09-03 20:27:38.720 [main]INFO  StepDefination.StepDef - Verify final checkout page should be open
+2023-09-03 20:27:38.755 [main]INFO  StepDefination.StepDef - User click on Finish button
+2023-09-03 20:27:38.783 [main]INFO  StepDefination.StepDef - Verify order should be placed successfully
+2023-09-03 20:40:42.675 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:40:43.936 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:40:44.081 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:40:44.212 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:40:44.287 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:40:44.338 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:40:47.390 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 20:40:47.434 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 20:40:47.467 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 20:40:49.249 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:40:50.091 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:40:50.215 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:40:50.287 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:40:50.385 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:40:50.454 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:40:53.517 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 20:40:53.559 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 20:40:53.589 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 20:40:55.249 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 20:40:56.090 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 20:40:56.268 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 20:40:56.341 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 20:40:56.425 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 20:40:56.470 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 20:40:56.516 [main]INFO  StepDefination.StepDef - User click on short add to cart
+2023-09-03 20:40:56.541 [main]INFO  StepDefination.StepDef - Verify item should be add in the cart from short add to cart
+2023-09-03 20:40:56.645 [main]INFO  StepDefination.StepDef - User click on product from listning page
+2023-09-03 20:40:56.684 [main]INFO  StepDefination.StepDef - Verify pdp should open successfully
+2023-09-03 20:40:56.743 [main]INFO  StepDefination.StepDef - User click on add to cart from PDP
+2023-09-03 20:40:56.765 [main]INFO  StepDefination.StepDef - Verify add to cart successfully from PDP
+2023-09-03 20:40:56.808 [main]INFO  StepDefination.StepDef - User click on cart page
+2023-09-03 20:40:56.829 [main]INFO  StepDefination.StepDef - Verify two items should be add in the cart
+2023-09-03 20:40:56.863 [main]INFO  StepDefination.StepDef - User remove one item from the item
+2023-09-03 20:40:56.891 [main]INFO  StepDefination.StepDef - Verify one item should be in cart
+2023-09-03 20:40:56.971 [main]INFO  StepDefination.StepDef - User click on Checkout button
+2023-09-03 20:40:56.990 [main]INFO  StepDefination.StepDef - Verify customer information page should be open
+2023-09-03 20:40:57.198 [main]INFO  StepDefination.StepDef - User fill the customer information
+2023-09-03 20:40:57.289 [main]INFO  StepDefination.StepDef - User click on Continue button
+2023-09-03 20:40:57.320 [main]INFO  StepDefination.StepDef - Verify final checkout page should be open
+2023-09-03 20:40:57.389 [main]INFO  StepDefination.StepDef - User click on Finish button
+2023-09-03 20:40:57.419 [main]INFO  StepDefination.StepDef - Verify order should be placed successfully
+2023-09-03 21:03:42.248 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 21:03:44.096 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 21:03:44.238 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 21:03:44.292 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 21:03:44.382 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 21:03:44.425 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 21:03:47.467 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 21:03:47.564 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 21:03:47.598 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 21:03:49.451 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 21:03:50.342 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 21:03:50.476 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 21:03:50.535 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 21:03:50.649 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 21:03:50.705 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 21:03:53.748 [main]INFO  StepDefination.StepDef - User click on side menu
+2023-09-03 21:03:53.830 [main]INFO  StepDefination.StepDef - User clicks on logout button
+2023-09-03 21:03:53.861 [main]INFO  StepDefination.StepDef - User should logout successfully
+2023-09-03 21:03:55.608 [main]INFO  StepDefination.StepDef - User launch chrome browser
+2023-09-03 21:03:56.526 [main]INFO  StepDefination.StepDef - User Open the URL
+2023-09-03 21:03:56.659 [main]INFO  StepDefination.StepDef - User enters the username
+2023-09-03 21:03:56.726 [main]INFO  StepDefination.StepDef - User enters the password
+2023-09-03 21:03:56.816 [main]INFO  StepDefination.StepDef - User click on login button
+2023-09-03 21:03:56.862 [main]INFO  StepDefination.StepDef - User logged in successfully
+2023-09-03 21:03:56.905 [main]INFO  StepDefination.StepDef - User click on short add to cart
+2023-09-03 21:03:56.931 [main]INFO  StepDefination.StepDef - Verify item should be add in the cart from short add to cart
+2023-09-03 21:03:57.018 [main]INFO  StepDefination.StepDef - User click on product from listning page
+2023-09-03 21:03:57.048 [main]INFO  StepDefination.StepDef - Verify pdp should open successfully
+2023-09-03 21:03:57.099 [main]INFO  StepDefination.StepDef - User click on add to cart from PDP
+2023-09-03 21:03:57.120 [main]INFO  StepDefination.StepDef - Verify add to cart successfully from PDP
+2023-09-03 21:03:57.163 [main]INFO  StepDefination.StepDef - User click on cart page
+2023-09-03 21:03:57.186 [main]INFO  StepDefination.StepDef - Verify two items should be add in the cart
+2023-09-03 21:03:57.220 [main]INFO  StepDefination.StepDef - User remove one item from the item
+2023-09-03 21:03:57.252 [main]INFO  StepDefination.StepDef - Verify one item should be in cart
+2023-09-03 21:03:57.346 [main]INFO  StepDefination.StepDef - User click on Checkout button
+2023-09-03 21:03:57.365 [main]INFO  StepDefination.StepDef - Verify customer information page should be open
+2023-09-03 21:03:57.572 [main]INFO  StepDefination.StepDef - User fill the customer information
+2023-09-03 21:03:57.646 [main]INFO  StepDefination.StepDef - User click on Continue button
+2023-09-03 21:03:57.668 [main]INFO  StepDefination.StepDef - Verify final checkout page should be open
+2023-09-03 21:03:57.746 [main]INFO  StepDefination.StepDef - User click on Finish button
+2023-09-03 21:03:57.767 [main]INFO  StepDefination.StepDef - Verify order should be placed successfully
